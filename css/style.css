@@ -226,7 +226,6 @@
 /*footer*/
 .footer {
     background-color: #121212;
-    height: 300px;
 }
 .footer-bl a:visited {
     color: #fff;
@@ -240,6 +239,10 @@
 }
 .footer {
     padding: 90px 0 40px 0;
+}
+.footer-bl {
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 .footer-bl p {
     width: 260px;

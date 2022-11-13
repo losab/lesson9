@@ -65,7 +65,15 @@
         width: 330px;
         font-size: 35px;
     }
-
+    .bed {
+        width: 78%;
+    }
+    .image-wr {
+        margin: 0 10%;
+    }
+    .left-side {
+        width:89%;
+    }
 }
 @media (max-width:1087px) {
     .image-wr {
